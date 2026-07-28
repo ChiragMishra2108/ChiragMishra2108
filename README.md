@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <video src="./pacman-long.mp4" width="100%" autoplay loop muted playsinline></video>
+</p>
